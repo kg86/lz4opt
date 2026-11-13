@@ -16,8 +16,10 @@ Changes to the tree itself (`Snakree`) belong in that repository, not here.
 
 ## Language
 
-Code, comments, commit messages, and repository documentation stay in English unless asked otherwise.
+This is a public repository.
+Code, comments, commit messages, pull request titles and descriptions, issues, review comments, and repository documentation stay in English unless asked otherwise.
 This includes the report text and figure labels that scripts generate into ignored directories such as `experiments/lz4/results/` and `experiments/lz4/runs/`.
+When conversing with a user, reply in the language the user writes in.
 
 ## Markdown style
 
@@ -48,6 +50,6 @@ The tests under `tests/` also read `testdata/sample.txt`.
 
 - README.md and docs/ describe the encoders, the LZ77 container format, and the frame JSON schema.
   `docs/benchmarking.md` has the benchmarking instructions.
-- `CITATION.cff` and the BibTeX entry in the README's Citation section give the citation.
-  Keep their title and version in line with each other and with `Cargo.toml` when the version changes.
+- `CITATION.cff` gives the citation; the README's Citation section only points to it.
+  Keep its version in line with `Cargo.toml` when the version changes.
 - `snakree` depends on the algorithm of Leonard, Inenaga, Bannai and Mieno, *Sliding Suffix Trees Revisited* <https://arxiv.org/html/2307.01412v4>.

@@ -110,19 +110,7 @@ See [DEVELOPMENT.md](DEVELOPMENT.md) for local API documentation setup.
 
 ## Citation
 
-If you use lz4opt in academic work, please cite it.
-GitHub shows the citation under "Cite this repository", which reads [CITATION.cff](CITATION.cff).
-The BibTeX entry is:
-
-```bibtex
-@software{goto_lz4opt,
-  author  = {Goto, Keisuke},
-  title   = {lz4opt: an optimal {LZ4} encoder},
-  year    = {2026},
-  version = {0.1.0},
-  url     = {https://github.com/kg86/lz4opt}
-}
-```
+If you use lz4opt in academic work, please cite it as described in [CITATION.cff](CITATION.cff).
 
 ## License
 
