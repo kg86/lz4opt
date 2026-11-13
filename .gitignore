@@ -1,0 +1,10 @@
+# Build output
+/target/
+
+# Editor / OS
+.DS_Store
+.idea/
+.vscode/
+
+# Python bytecode
+__pycache__/

@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="985" viewBox="0 0 900 985" role="img" aria-labelledby="title desc">
+<title id="title">lz4opt, LZ4HC -12 and LZ4 default: compression ratios</title>
+<desc id="desc">Grouped bars compare original size divided by compressed size; higher is better. The top panel shows ratios of corpus byte totals, and the bottom panel shows six selected repetitive files. Both axes start at zero, with different scales for the two panels. Labels show ratios to five decimal places.</desc>
+<rect width="900" height="985" rx="12" fill="#ffffff"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="28" y="35" font-size="22" fill="#172033" text-anchor="start" font-weight="700">Compression ratio</text>
+<text x="28" y="64" font-size="14" fill="#526078" text-anchor="start">Original size / compressed size · higher is better</text>
+<text x="28" y="87" font-size="13" fill="#526078" text-anchor="start">Corpus totals · total input bytes / total compressed bytes</text>
+<rect x="360.00" y="23" width="14.00" height="14" rx="3" fill="#94a3b8"/>
+<text x="382" y="36" font-size="14" fill="#172033" text-anchor="start">LZ4 default</text>
+<rect x="520.00" y="23" width="14.00" height="14" rx="3" fill="#2563eb"/>
+<text x="542" y="36" font-size="14" fill="#172033" text-anchor="start">LZ4HC -12</text>
+<rect x="675.00" y="23" width="14.00" height="14" rx="3" fill="#087f5b"/>
+<text x="697" y="36" font-size="14" fill="#172033" text-anchor="start">lz4opt</text>
+<path d="M180.00 105V280" stroke="#dce3ed"/>
+<text x="180.0" y="302" font-size="12" fill="#526078" text-anchor="middle">0</text>
+<path d="M267.14 105V280" stroke="#dce3ed"/>
+<text x="267.1428571428571" y="302" font-size="12" fill="#526078" text-anchor="middle">1</text>
+<path d="M354.29 105V280" stroke="#dce3ed"/>
+<text x="354.2857142857143" y="302" font-size="12" fill="#526078" text-anchor="middle">2</text>
+<path d="M441.43 105V280" stroke="#dce3ed"/>
+<text x="441.4285714285714" y="302" font-size="12" fill="#526078" text-anchor="middle">3</text>
+<path d="M528.57 105V280" stroke="#dce3ed"/>
+<text x="528.5714285714286" y="302" font-size="12" fill="#526078" text-anchor="middle">4</text>
+<path d="M615.71 105V280" stroke="#dce3ed"/>
+<text x="615.7142857142858" y="302" font-size="12" fill="#526078" text-anchor="middle">5</text>
+<path d="M702.86 105V280" stroke="#dce3ed"/>
+<text x="702.8571428571428" y="302" font-size="12" fill="#526078" text-anchor="middle">6</text>
+<path d="M790.00 105V280" stroke="#dce3ed"/>
+<text x="790.0" y="302" font-size="12" fill="#526078" text-anchor="middle">7</text>
+<text x="160" y="152" font-size="14" fill="#172033" text-anchor="end" font-weight="700">Silesia</text>
+<rect x="180.00" y="116" width="182.98" height="21" rx="3" fill="#94a3b8"/>
+<text x="372.9795239239828" y="132" font-size="14" fill="#172033" text-anchor="start" font-weight="700">2.09977</text>
+<rect x="180.00" y="142" width="238.70" height="21" rx="3" fill="#2563eb"/>
+<text x="428.7008418471006" y="158" font-size="14" fill="#172033" text-anchor="start" font-weight="700">2.73919</text>
+<rect x="180.00" y="168" width="238.70" height="21" rx="3" fill="#087f5b"/>
+<text x="428.701711842142" y="184" font-size="14" fill="#172033" text-anchor="start" font-weight="700">2.73920</text>
+<text x="160" y="236" font-size="14" fill="#172033" text-anchor="end" font-weight="700">Repetitive</text>
+<rect x="180.00" y="200" width="306.77" height="21" rx="3" fill="#94a3b8"/>
+<text x="496.77201243390704" y="216" font-size="14" fill="#172033" text-anchor="start" font-weight="700">3.52033</text>
+<rect x="180.00" y="226" width="519.80" height="21" rx="3" fill="#2563eb"/>
+<text x="709.803490425011" y="242" font-size="14" fill="#172033" text-anchor="start" font-weight="700">5.96496</text>
+<rect x="180.00" y="252" width="520.04" height="21" rx="3" fill="#087f5b"/>
+<text x="710.0350724754943" y="268" font-size="14" fill="#172033" text-anchor="start" font-weight="700">5.96762</text>
+<text x="28" y="346" font-size="22" fill="#172033" text-anchor="start" font-weight="700">Selected repetitive files</text>
+<text x="28" y="373" font-size="14" fill="#526078" text-anchor="start">Same ratio · larger axis range · selected for larger relative improvements</text>
+<path d="M180.00 396V875" stroke="#dce3ed"/>
+<text x="180.0" y="897" font-size="12" fill="#526078" text-anchor="middle">0</text>
+<path d="M281.67 396V875" stroke="#dce3ed"/>
+<text x="281.66666666666663" y="897" font-size="12" fill="#526078" text-anchor="middle">50</text>
+<path d="M383.33 396V875" stroke="#dce3ed"/>
+<text x="383.3333333333333" y="897" font-size="12" fill="#526078" text-anchor="middle">100</text>
+<path d="M485.00 396V875" stroke="#dce3ed"/>
+<text x="485.0" y="897" font-size="12" fill="#526078" text-anchor="middle">150</text>
+<path d="M586.67 396V875" stroke="#dce3ed"/>
+<text x="586.6666666666666" y="897" font-size="12" fill="#526078" text-anchor="middle">200</text>
+<path d="M688.33 396V875" stroke="#dce3ed"/>
+<text x="688.3333333333334" y="897" font-size="12" fill="#526078" text-anchor="middle">250</text>
+<path d="M790.00 396V875" stroke="#dce3ed"/>
+<text x="790.0" y="897" font-size="12" fill="#526078" text-anchor="middle">300</text>
+<text x="160" y="443" font-size="14" fill="#172033" text-anchor="end">Horspool</text>
+<rect x="180.00" y="407" width="201.39" height="21" rx="3" fill="#94a3b8"/>
+<text x="391.3877345818578" y="423" font-size="14" fill="#172033" text-anchor="start" font-weight="700">99.04315</text>
+<rect x="180.00" y="432" width="374.01" height="21" rx="3" fill="#2563eb"/>
+<text x="564.0123077384953" y="448" font-size="14" fill="#172033" text-anchor="start" font-weight="700">183.94048</text>
+<rect x="180.00" y="457" width="392.76" height="21" rx="3" fill="#087f5b"/>
+<text x="582.755037004785" y="473" font-size="14" fill="#172033" text-anchor="start" font-weight="700">193.15821</text>
+<text x="160" y="521" font-size="14" fill="#172033" text-anchor="end">Quicksort</text>
+<rect x="180.00" y="485" width="166.78" height="21" rx="3" fill="#94a3b8"/>
+<text x="356.7783357130484" y="501" font-size="14" fill="#172033" text-anchor="start" font-weight="700">82.02213</text>
+<rect x="180.00" y="510" width="338.03" height="21" rx="3" fill="#2563eb"/>
+<text x="528.0335592829864" y="526" font-size="14" fill="#172033" text-anchor="start" font-weight="700">166.24601</text>
+<rect x="180.00" y="535" width="352.26" height="21" rx="3" fill="#087f5b"/>
+<text x="542.2619864339765" y="551" font-size="14" fill="#172033" text-anchor="start" font-weight="700">173.24360</text>
+<text x="160" y="599" font-size="14" fill="#172033" text-anchor="end">NQueens</text>
+<rect x="180.00" y="563" width="167.10" height="21" rx="3" fill="#94a3b8"/>
+<text x="357.09671700842375" y="579" font-size="14" fill="#172033" text-anchor="start" font-weight="700">82.17871</text>
+<rect x="180.00" y="588" width="362.99" height="21" rx="3" fill="#2563eb"/>
+<text x="552.9938881802595" y="604" font-size="14" fill="#172033" text-anchor="start" font-weight="700">178.52158</text>
+<rect x="180.00" y="613" width="376.30" height="21" rx="3" fill="#087f5b"/>
+<text x="566.3036663003119" y="629" font-size="14" fill="#172033" text-anchor="start" font-weight="700">185.06738</text>
+<text x="160" y="677" font-size="14" fill="#172033" text-anchor="end">tm29</text>
+<rect x="180.00" y="641" width="7.52" height="21" rx="3" fill="#94a3b8"/>
+<text x="197.51987349705806" y="657" font-size="14" fill="#172033" text-anchor="start" font-weight="700">3.69830</text>
+<rect x="180.00" y="666" width="496.87" height="21" rx="3" fill="#2563eb"/>
+<text x="686.8714564836705" y="682" font-size="14" fill="#172033" text-anchor="start" font-weight="700">244.36301</text>
+<rect x="180.00" y="691" width="499.46" height="21" rx="3" fill="#087f5b"/>
+<text x="689.461263373337" y="707" font-size="14" fill="#172033" text-anchor="start" font-weight="700">245.63669</text>
+<text x="160" y="755" font-size="14" fill="#172033" text-anchor="end">fib41</text>
+<rect x="180.00" y="719" width="7.47" height="21" rx="3" fill="#94a3b8"/>
+<text x="197.47368071438245" y="735" font-size="14" fill="#172033" text-anchor="start" font-weight="700">3.67558</text>
+<rect x="180.00" y="744" width="508.20" height="21" rx="3" fill="#2563eb"/>
+<text x="698.2025355440436" y="760" font-size="14" fill="#172033" text-anchor="start" font-weight="700">249.93567</text>
+<rect x="180.00" y="769" width="510.22" height="21" rx="3" fill="#087f5b"/>
+<text x="700.2163979587312" y="785" font-size="14" fill="#172033" text-anchor="start" font-weight="700">250.92610</text>
+<text x="160" y="833" font-size="14" fill="#172033" text-anchor="end">rs.13</text>
+<rect x="180.00" y="797" width="395.98" height="21" rx="3" fill="#94a3b8"/>
+<text x="585.9810124940736" y="813" font-size="14" fill="#172033" text-anchor="start" font-weight="700">194.74476</text>
+<rect x="180.00" y="822" width="507.63" height="21" rx="3" fill="#2563eb"/>
+<text x="697.6288923033921" y="838" font-size="14" fill="#172033" text-anchor="start" font-weight="700">249.65355</text>
+<rect x="180.00" y="847" width="508.98" height="21" rx="3" fill="#087f5b"/>
+<text x="698.984320306124" y="863" font-size="14" fill="#172033" text-anchor="start" font-weight="700">250.32016</text>
+<text x="28" y="932" font-size="13" fill="#526078" text-anchor="start">Bars start at zero · five decimal places retain small differences</text>
+<text x="28" y="959" font-size="13" fill="#526078" text-anchor="start">Apple M4 · LZ4 1.10.0 · one thread · independent 4 MiB blocks</text>
+</g>
+</svg>

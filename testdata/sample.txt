@@ -1,0 +1,9 @@
+The quick brown fox jumps over the lazy dog.
+The quick brown fox jumps over the lazy dog.
+The quick brown fox jumps over the lazy dog.
+LZ4 is a fast compression algorithm.
+LZ4 is a fast compression algorithm.
+Repetition helps compression ratios.
+Repetition helps compression ratios.
+Repetition helps compression ratios.
+The quick brown fox jumps over the lazy dog.
